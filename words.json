@@ -1,0 +1,49 @@
+{
+ "Cipla":{
+    "OpenPrice": {
+    "28-February-2017": 592,
+    "27-February-2017": 592,
+    "23-February-2017": 590,
+    "22-February-2017": 592.6,
+    "21-February-2017": 595,
+    "20-February-2017": 595,
+    "17-February-2017": 585,
+    "16-February-2017": 576.95,
+    "15-February-2017": 577.05,
+    "14-February-2017": 582,
+    "13-February-2017": 576.35,
+    "10-February-2017": 590,
+    "9-February-2017": 610,
+    "8-February-2017": 599,
+    "7-February-2017": 600.9,
+    "6-February-2017": 610,
+    "3-February-2017": 586,
+    "2-February-2017": 581.5,
+    "1-February-2017": 574.8,
+    "31-January-2017": 582
+  },
+
+      "ClosePrice": {
+    "28-February-2017": 583.2,
+    "27-February-2017": 585.45,
+    "23-February-2017": 591.6,
+    "22-February-2017": 587.85,
+    "21-February-2017": 592.6,
+    "20-February-2017": 593.9,
+    "17-February-2017": 592.6,
+    "16-February-2017": 583.4,
+    "15-February-2017": 573.35,
+    "14-February-2017": 576.75,
+    "13-February-2017": 581.3,
+    "10-February-2017": 579.35,
+    "9-February-2017": 587,
+    "8-February-2017": 602.95,
+    "7-February-2017": 597.3,
+    "6-February-2017": 601.45,
+    "3-February-2017": 611.35,
+    "2-February-2017": 583.95,
+    "1-February-2017": 573.25,
+    "31-January-2017": 574.25
+  }
+ }
+}
